@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @hasnaties
-- 👀 I’m interested in Backend Development and Engineering.
+- 👋 Hi, I’m Hasnat
+- 👀 I’m interested in Backend Development and Engineering
 - 🌱 I’m currently learning Spring/Java-EE
 - 💞️ I’m looking to collaborate on Projects about Node.js server side devlopment, REST APIs or SQL/No-SQL databases.
 - 📫 How to reach me @hasnaties (gmail, LinkedIn).
